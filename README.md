@@ -1,3 +1,3 @@
 For testing purposes
 Testing 2
-Text added in feature branch
+Text added in master branch
